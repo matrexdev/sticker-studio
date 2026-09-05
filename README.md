@@ -105,9 +105,9 @@ Cloud sync, archive import/export, a recycle bin, and a separate WhatsApp Busine
 
 ## Contributing and publishing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md). A shared Xcode scheme, dependency lockfile, tests, privacy manifest, and third-party license notice are included. No repository has been published automatically.
+See [CONTRIBUTING.md](CONTRIBUTING.md). A shared Xcode scheme, dependency lockfile, tests, privacy manifest, and third-party license notice are included.
 
-Before publishing, choose a license for the application source. Avoid committing signing credentials or personal Xcode settings. Files already tracked by Git are not removed from history by `.gitignore`.
+An open-source license for the application source has not yet been selected. Avoid committing signing credentials or personal Xcode settings. Files already tracked by Git are not removed from history by `.gitignore`.
 
 libwebp's BSD notice is bundled as `ThirdPartyNotices.txt`. Sticker Studio is not affiliated with WhatsApp or Meta.
 
