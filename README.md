@@ -2,6 +2,8 @@
 
 An iOS app for making WhatsApp stickers from your photos. Built with SwiftUI.
 
+> This repository shows an early version of the app, kept public as a portfolio sample. The App Store version is developed privately and has many more features. See [azizyigit.com](https://azizyigit.com/projects/sticker-studio.html).
+
 - Import photos from your library or clipboard.
 - Crop, remove backgrounds, add text, resize, and rotate.
 - Save stickers individually or organize them into packs.
@@ -25,4 +27,4 @@ Deleting a pack also deletes its stickers from the app, including references in 
 
 Only static stickers are supported. WhatsApp export needs a physical iPhone.
 
-Uses [libwebp](https://github.com/SDWebImage/libwebp-Xcode) under its BSD license. See [CONTRIBUTING.md](CONTRIBUTING.md) for development notes. An application source license has not yet been selected.
+Uses [libwebp](https://github.com/SDWebImage/libwebp-Xcode) under its BSD license. See [CONTRIBUTING.md](CONTRIBUTING.md) for development notes. The app itself is not open source: all rights reserved (see [LICENSE](LICENSE)).
